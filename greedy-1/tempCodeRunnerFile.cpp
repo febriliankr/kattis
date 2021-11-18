@@ -1,0 +1,1 @@
+cout << cummulativeBebekArray[i] << endl;
